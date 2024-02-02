@@ -4,3 +4,13 @@
 #### Shyla M. Atchison
 
 #### February 1, 2024
+
+
+---
+### *Acknowledgements
+
+... <br>
+
+Author contact information, code, and data are currently or will be available 
+at <https://github.com/shylaatchison/Research/tree/main/AI_Survey-Research>, 
+or by contacting the author at <shylaatchison@berkeley.edu>. <br>
