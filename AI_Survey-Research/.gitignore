@@ -160,6 +160,12 @@ cython_debug/
 #.idea/
 
 # Other
+
+# .DS_Store files
 .DS_Store
-.edsl_cache_shit.db
+
+# edsl_cache_shit.db file
+edsl_cache_shit.db
+
+# interview.log file
 interview.log
