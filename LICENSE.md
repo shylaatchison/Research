@@ -9,7 +9,7 @@ The source code of the project is licensed under the MIT License:
 
 The MIT License (MIT)
 
-Copyright (c) 2024 SHYLA ATCHISON
+Copyright (c) 2024 SHYLA MARIE ATCHISON
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -35,7 +35,7 @@ All non-code materials including but not limited to writing, images, and educati
 
 Creative Commons Attribution 4.0 International License
 
-Copyright (c) 2024 SHYLA ATCHISON
+Copyright (c) 2024 SHYLA MARIE ATCHISON
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
